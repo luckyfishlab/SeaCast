@@ -1,0 +1,518 @@
+ANZ080|Offshore Marine|Synopsis for New England|/offshore/an/anz080.txt
+ANZ081|Offshore Marine|Gulf of Maine|/offshore/an/anz081.txt
+ANZ082|Offshore Marine|Georges Bank|/offshore/an/anz082.txt
+ANZ083|Offshore Marine|South of New England|/offshore/an/anz083.txt
+ANZ089|Offshore Marine|Synopsis for Mid-Atlantic|/offshore/an/anz089.txt
+ANZ084|Offshore Marine|Hudson Canyon to Baltimore Canyon|/offshore/an/anz084.txt
+ANZ094|Offshore Marine|Baltimore Canyon to the Hague Line S of 1000 FM|/offshore/an/anz094.txt
+ANZ085|Offshore Marine|Baltimore Canyon to Hatteras Canyon|/offshore/an/anz085.txt
+ANZ086|Offshore Marine|Hatteras Canyon to Cape Fear|/offshore/an/anz086.txt
+ANZ088|Offshore Marine|Cape Fear to 31N|/offshore/an/anz088.txt
+AMZ088|Offshore Marine|Synopsis for Southwest North Atlantic|/offshore/am/amz088.txt
+AMZ080|Offshore Marine|Southwest North Atlantic South of 31N and West of 65W|/offshore/am/amz080.txt
+AMZ089|Offshore Marine|Synopsis for Caribbean Sea|/offshore/am/amz089.txt
+AMZ082|Offshore Marine|Northwest Caribbean North of 15N and West of 75W|/offshore/am/amz082.txt
+AMZ084|Offshore Marine|Southwest Caribbean South of 15N and West of 75W|/offshore/am/amz084.txt
+AMZ086|Offshore Marine|East Caribbean East of 75W|/offshore/am/amz086.txt
+AMZ087|Offshore Marine|Tropical North Atlantic  07-22&ordm; N, 55-65&ordm; W|/offshore/am/amz087.txt 
+ANZ005|Coastal|Synopsis for Eastport ME to Stonington ME out 25 NM|/coastal/an/anz005.txt
+ANZ050|Coastal|Coastal Waters from Eastport ME to Schoodic Point ME out 25 NM|/coastal/an/anz050.txt
+ANZ051|Coastal|Coastal Waters from Eastport ME to Schoodic Point ME out 25 NM|/coastal/an/anz051.txt
+ANZ052|Coastal|Intra Coastal Waters from Schoodic Point ME to Stonington ME|/coastal/an/anz052.txt
+ANZ100|Coastal|Synopsis for Stonington ME to Merrimack River MA out 25 NM|/coastal/an/anz100.txt
+ANZ150|Coastal|Coastal Waters from Stonington ME to Port Clyde ME out 25 NM|/coastal/an/anz150.txt
+ANZ151|Coastal|Penobscot Bay|/coastal/an/anz151.txt
+ANZ152|Coastal|Coastal Waters from Port Clyde ME to Cape Elizabeth ME out 25 NM|/coastal/an/anz152.txt
+ANZ153|Coastal|Casco Bay|/coastal/an/anz153.txt
+ANZ154|Coastal|Coastal Waters from Cape Elizabeth ME to Merrimack River MA out 25 NM|/coastal/an/anz154.txt
+ANZ200|Coastal|Synopsis for MA and RI waters |/coastal/an/anz200.txt
+ANZ230|Coastal|Boston Harbor|/coastal/an/anz230.txt
+ANZ231|Coastal|Cape Cod Bay|/coastal/an/anz231.txt
+ANZ250|Coastal|Coastal waters from Merrimack River, MA out 20 NM to Plymouth, MA out 40 NM|/coastal/an/anz250.txt
+ANZ232|Coastal|Nantucket Sound|/coastal/an/anz232.txt
+ANZ254|Coastal|Coastal waters from Provincetown, MA to Nantucket, MA out 20 NM|/coastal/an/anz254.txt
+ANZ233|Coastal|Vinyard Sound|/coastal/an/anz233.txt
+ANZ234|Coastal|Buzzards Bay|/coastal/an/anz234.txt
+ANZ235|Coastal|Rhode Island Sound|/coastal/an/anz235.txt
+ANZ236|Coastal|Narragansett Bay|/coastal/an/anz236.txt
+ANZ237|Coastal|Block Island Sound|/coastal/an/anz237.txt
+ANZ255|Coastal|Coastal waters from Nantucket, MA to Montauk, NY out 20 NM|/coastal/an/anz255.txt
+ANZ300|Coastal|Synopsis for Long Island Waters and New York Harbor |/coastal/an/anz300.txt
+ANZ350|Coastal|Coastal waters from Montauk Point, NY to Moriches Inlet, NY out 20 NM|/coastal/an/anz350.txt
+ANZ353|Coastal|Coastal waters from Moriches Inlet, NY to Fire Island Inlet, NY out 20 NM|/coastal/an/anz353.txt
+ANZ355|Coastal|Coastal waters from Fire Island Inlet, NY to Sandy Hook, NJ out 20 NM|/coastal/an/anz355.txt
+ANZ330|Coastal|Long Island Sound East of New Haven CT/Port Jefferson NY|/coastal/an/anz330.txt
+ANZ335|Coastal|Long Island Sound West of New Haven CT/Port Jefferson NY|/coastal/an/anz335.txt
+ANZ338|Coastal|New York Harbor|/coastal/an/anz338.txt
+ANZ340|Coastal|Peconic and Gardiners Bays|/coastal/an/anz340.txt
+ANZ345|Coastal|South Shore Bays from Jones Inlet through Shinnecock Bay|/coastal/an/anz345.txt
+ANZ400|Coastal|Synopsis for Sandy Hook, NJ to Fenwick Island, DE and Delaware Bay |/coastal/an/anz400.txt
+ANZ450|Coastal|Coastal waters from Sandy Hook to Manasquan Inlet, NJ out 20 NM|/coastal/an/anz450.txt
+ANZ451|Coastal|Coastal waters from Manasquan Inlet to Little Egg Inlet, NJ out 20 NM|/coastal/an/anz451.txt
+ANZ452|Coastal|Coastal waters from Little Egg Inlet to Great Egg Inlet, NJ out 20 NM|/coastal/an/anz452.txt
+ANZ453|Coastal|Coastal waters from Great Egg Inlet to Cape May, NJ out 20 NM|/coastal/an/anz453.txt
+ANZ454|Coastal|Coastal waters from Cape May to Cape Henlopen, DE out 20 NM|/coastal/an/anz454.txt
+ANZ455|Coastal|Coastal waters from Cape Henlopen to Fenwick Island, DE out 20 NM|/coastal/an/anz455.txt
+ANZ430|Coastal|Slaughter Beach DE...To Delaware Bay Waters North of East Point, NJ to Slaughter Beach, DE|/coastal/an/anz430.txt
+ANZ431|Coastal|Slaughter Beach DE...To Delaware Bay Waters South of East Point, NJ to Slaughter Beach, DE|/coastal/an/anz431.txt
+ANZ500|Coastal|Synopsis for Tidal Potomac River and MD Portion of the Chesapeake Bay |/coastal/an/anz500.txt
+ANZ530|Coastal|Chesapeake Bay north of Pooles Island, MD|/coastal/an/anz530.txt
+ANZ531|Coastal|Chesapeake Bay from Pooles Island to Sandy Point, MD|/coastal/an/anz531.txt
+ANZ532|Coastal|Chesapeake Bay from Sandy Point to North Beach, MD|/coastal/an/anz532.txt
+ANZ533|Coastal|Chesapeake Bay from North Beach to Drum Point, MD|/coastal/an/anz533.txt
+ANZ534|Coastal|Chesapeake Bay from Drum Point to Smith Point, VA|/coastal/an/anz534.txt
+ANZ535|Coastal|Tidal Potomac from Key Bridge to Indian Head, MD|/coastal/an/anz535.txt
+ANZ536|Coastal|Tidal Potomac from Indian Head to Cobb Island, MD|/coastal/an/anz536.txt
+ANZ537|Coastal|Tidal Potomac from Cobb Island, MD to Smith Point, VA|/coastal/an/anz537.txt
+ANZ600|Coastal|Synopsis for Fenwick Island to Currituck Beach Light, NC [including Chesapeake Bay and Currituck Sound] |/coastal/an/anz600.txt
+ANZ630|Coastal|Chesapeake Bay from Smith Point to Windmill Point, VA|/coastal/an/anz630.txt
+ANZ631|Coastal|Chesapeake Bay from Windmill Point to New Point Comfort, VA|/coastal/an/anz631.txt
+ANZ632|Coastal|Chesapeake Bay from New Point Comfort To Cape Henry, VA|/coastal/an/anz632.txt
+ANZ650|Coastal|Coastal waters from Fenwick Island, DE to Chincoteague, VA out 20 NM [including Currituck Sound]|/coastal/an/anz650.txt
+ANZ652|Coastal|Coastal waters from Chincoteague to Parramore Island, VA out 20 NM|/coastal/an/anz652.txt
+ANZ654|Coastal|Coastal waters from Parramore Island to Cape Charles Light, VA out 20 NM|/coastal/an/anz654.txt
+ANZ656|Coastal|Coastal waters from Cape Charles Light, VA to NC-VA border out 20 NM|/coastal/an/anz656.txt
+ANZ658|Coastal|Coastal waters from VA-NC border to Currituck Beach Light, NC out 20 NM|/coastal/an/anz658.txt
+ANZ633|Coastal|Currituck Sound|/coastal/an/anz633.txt
+AMZ100|Coastal|Synopsis for Currituck Beach Light to Surf City, NC out 20 NM [including Albemarle and Pamlico Sounds] |/coastal/am/amz100.txt
+AMZ150|Coastal|Coastal waters from Currituck Beach Light to Oregon Inlet, NC out 20 NM|/coastal/am/amz150.txt
+AMZ152|Coastal|Coastal waters from Oregon Inlet to Cape Hatteras, NC out 20 NM|/coastal/am/amz152.txt
+AMZ154|Coastal|Coastal waters from Cape Hatteras to Ocracoke Inlet, NC out 20 NM|/coastal/am/amz154.txt
+AMZ156|Coastal|Coastal waters from Ocracoke Inlet to Cape Lookout, NC out 20 NM|/coastal/am/amz156.txt
+AMZ158|Coastal|Coastal waters from Cape Lookout to Surf City, NC out 20 NM|/coastal/am/amz158.txt
+AMZ130|Coastal|Albemarle Sound|/coastal/am/amz130.txt
+AMZ135|Coastal|Pamlico Sound|/coastal/am/amz135.txt
+AMZ200|Coastal|Synopsis for Surf City, NC to Santee River, SC out 20 NM |/coastal/am/amz200.txt
+AMZ250|Coastal|Coastal waters from Surf City to Cape Fear, NC out 20 NM|/coastal/am/amz250.txt
+AMZ252|Coastal|Coastal waters from Cape Fear to Little River Inlet, SC out 20 NM|/coastal/am/amz252.txt
+AMZ254|Coastal|Coastal waters from Little River Inlet, SC to Murrells Inlet, SC out 20 NM|/coastal/am/amz254.txt
+AMZ256|Coastal|Coastal waters from Murrells Inlet to South Santee River, SC out 20 NM  |/coastal/am/amz256.txt
+AMZ300|Coastal|Synopsis for South Santee River SC to Savannah GA out 20 NM and Savannah GA to Altamaha Sounds GA out 60 NM...Including Charleston Harbor and Grays Reef National Marine Sanctuary|/coastal/am/amz300.txt
+AMZ350|Coastal|Coastal waters from South Santee River, GA to Edisto Beach, SC out 20 NM|/coastal/am/amz350.txt
+AMZ352|Coastal|Coastal waters from Edisto Beach, SC to Savannah, GA out 20 NM|/coastal/am/amz352.txt
+AMZ330|Coastal|Charleston Harbor|/coastal/am/amz330.txt
+AMZ354|Coastal|Coastal Waters from Savannah, GA to Altamaha Sound, GA out 20 NM, including Grays Reef  National Marine Sanctuary|/coastal/am/amz354.txt
+AMZ374|Coastal|Waters from Savannah, GA to Altamaha Sound, GA extending 20 to 60 NM|/coastal/am/amz374.txt
+AMZ400|Coastal|Synopsis for Altamaha Sound, GA to Flagler Beach, FL out 60 NM |/coastal/am/amz400.txt
+AMZ450|Coastal|Coastal waters from Altamaha Sound, GA to Flagler Beach, FL out to 20 NM|/coastal/am/amz450.txt
+AMZ470|Coastal|Waters from Atlamaha Sound, GA to Fernandina Beach, FL extending 20 NM to 60 NM|/coastal/am/amz470.txt
+AMZ452|Coastal|Coastal waters from Fernandina Beach to St. Augustine, FL out 20 NM|/coastal/am/amz452.txt
+AMZ472|Coastal|Waters from Fernandina Beach to St. Augustine, FL extending 20 NM to 60 NM|/coastal/am/amz472.txt
+AMZ454|Coastal|Coastal waters from St. Augustine to Flager Beach, FL out 20 NM|/coastal/am/amz454.txt
+AMZ474|Coastal|Waters from St. Augustine to Flager Beach, FL extending 20 NM to 60 NM|/coastal/am/amz474.txt
+AMZ500|Coastal|Synopsis for Flagler Beach to Jupiter Inlet, FL 60 NM |/coastal/am/amz500.txt
+AMZ550|Coastal|Flagler Beach to Volusia-Brevard County Line 0-20NM |/coastal/am/amz550.txt
+AMZ552|Coastal|Volusia-Brevard County Line to Sebastian Inlet 0-20NM |/coastal/am/amz552.txt
+AMZ555|Coastal|Sebastian Inlet to Jupiter Inlet 0-20NM |/coastal/am/amz555.txt
+AMZ570|Coastal|Flagler Beach to Volusia-Brevard County Line 20-60NM|/coastal/am/amz570.txt
+AMZ572|Coastal|Volusia-Brevard County Line to Sebastian Inlet 20-60NM|/coastal/am/amz572.txt
+AMZ575|Coastal|Sebastian Inlet to Jupiter Inlet 20-60NM|/coastal/am/amz575.txt
+AMZ600|Coastal|Synopsis for Jupiter Inlet to Ocean Reef Out 60 NM |/coastal/am/amz600.txt
+AMZ610|Coastal|Lake Okeechobee, FL|/coastal/am/amz610.txt
+AMZ650|Coastal|Coastal waters from Jupiter Inlet to Deerfield Beach, FL out 20 NM|/coastal/am/amz650.txt
+AMZ670|Coastal|Waters from Jupiter Inlet to Deerfield Beach, FL extending 20 NM to 60 NM|/coastal/am/amz670.txt
+AMZ630|Coastal|Biscayne Bay, FL|/coastal/am/amz630.txt
+AMZ651|Coastal|Coastal waters from Deerfield Beach to Ocean Reef, FL out 20 NM|/coastal/am/amz651.txt
+AMZ671|Coastal|Waters from Deerfield Beach to Ocean Reef, FL extending 20 NM to 60 NM|/coastal/am/amz671.txt
+GMZ005|Coastal|Synopsis for Florida Bay and the Keys |/coastal/gm/gmz005.txt
+GMZ052|Coastal|Ocean Reef to Craig Key, FL out 20 NM|/coastal/gm/gmz052.txt
+GMZ072|Coastal|Ocean Reef to Craig Key, FL extending from 20 NM to 60 NM|/coastal/gm/gmz072.txt
+GMZ031|Coastal|Florida Bay|/coastal/gm/gmz031.txt
+GMZ032|Coastal|Gulf side of the lower Keys out 20 NM|/coastal/gm/gmz032.txt
+GMZ053|Coastal|Craig Key to the west end of 7 mile bridge out 20 NM|/coastal/gm/gmz053.txt
+GMZ073|Coastal|Craig Key to west end of 7 mile bridge extending from 20 NM to 60 NM|/coastal/gm/gmz073.txt
+GMZ054|Coastal|West end of 7 mile bridge to Key West, FL out 20 NM|/coastal/gm/gmz054.txt
+GMZ074|Coastal|West end of 7 mile bridge to Key West, FL extending from 20 NM to 60 NM|/coastal/gm/gmz074.txt
+GMZ075|Coastal|Gulf waters from Key West, FL [west to 20 NM west of Dry Tortugas, and north 20 south 60 NM from Dry Tortugas] |/coastal/gm/gmz075.txt
+GMZ033|Coastal|Gulf waters from East Cape Sable to Chokoloskee, FL extending from 20 NM to 60 NM|/coastal/gm/gmz033.txt
+AMZ700|Coastal|Synopsis for Puerto Rico and the U.S. Virgin Islands coastal waters |/coastal/am/amz700.txt
+AMZ720|Coastal|Nearshore waters from mouth of Rio Guajataca eastward to Cabo San Juan, than eastward to Culebra, St. Thomas, St. John, and adjacent waters, out to 100 fathom line|/coastal/am/amz720.txt
+AMZ710|Coastal|Atlantic waters northward to 19.5° N and between 68° W and 64° W, from northwest coast of Puerto Rico at Punta Cadena esatward to mouth of Rio Guajataca, extending eastware beyond 100 fathom line to the Anegada Passage|/coastal/am/amz710.txt
+AMZ730|Coastal|Caribbean waters from Punta Viento, north to Cabo San Juan extending southward to 17° N and eastward to 64° W, including the Caribbean waters of Culebra and Vieques of the U.S. Virgin Islands|/coastal/am/amz730.txt
+AMZ750|Coastal|Nearshore waters west coast from Punta Cadena to Punta Melones westward out to 12 NM|/coastal/am/amz750.txt
+AMZ740|Coastal|Caribbean Waters Punta Viento to Punta Melones, and the waters outside of 12 nautical miles Punta Melones to Punta Cadena, extending southward to 17° N and westward to 68° W|/coastal/am/amz740.txt
+PHZ105|Offshore Marine|Synopsis for Non-Coastal Waters within 240 nm of Honolulu|/offshore/ph/phz105.txt
+PHZ180|Offshore Marine|Offshore waters within 240 nm of Honolulu|/offshore/ph/phz180.txt
+PHZ100|Coastal Hawaii|Synopsis for Hawaiian Waters  |/coastal/ph/phz100.txt
+PHZ110|Coastal Hawaii|Kauai Northwest Waters |/coastal/ph/phz110.txt
+PHZ111|Coastal Hawaii|Kauai Windward Waters  |/coastal/ph/phz111.txt
+PHZ112|Coastal Hawaii|Kauai Leeward Waters |/coastal/ph/phz112.txt
+PHZ113|Coastal Hawaii|Kauai Channel |/coastal/ph/phz113.txt
+PHZ114|Coastal Hawaii|Oahu Windward Waters  |/coastal/ph/phz114.txt
+PHZ115|Coastal Hawaii|Oahu Leeward Waters |/coastal/ph/phz115.txt
+PHZ116|Coastal Hawaii|Kaiwi Channel |/coastal/ph/phz116.txt
+PHZ117|Coastal Hawaii|Maui County Windward Waters |/coastal/ph/phz117.txt
+PHZ118|Coastal Hawaii|Maui County Leeward Waters |/coastal/ph/phz118.txt
+PHZ119|Coastal Hawaii|Maalaea Bay  |/coastal/ph/phz119.txt
+PHZ120|Coastal Hawaii|Pailolo Channel |/coastal/ph/phz120.txt
+PHZ121|Coastal Hawaii|Alenuihaha Channel |/coastal/ph/phz121.txt
+PHZ122|Coastal Hawaii|Big Island Windward Waters |/coastal/ph/phz122.txt
+PHZ123|Coastal Hawaii|Big Island Leeward Waters |/coastal/ph/phz123.txt
+PHZ124|Coastal Hawaii|Big Island Southeast Waters |/coastal/ph/phz124.txt
+PMZ150|Coastal Guam|Synopsis for Marianas Waters  |/coastal/pm/pmz150.txt
+PMZ151|Coastal Guam|Guam Coastal Waters |/coastal/pm/pmz151.txt
+PMZ150|Coastal Northern Mariana Islands|Synopsis for Marianas Waters  |/coastal/pm/pmz150.txt
+PMZ152|Coastal Northern Mariana Islands|Rota Coastal Waters |/coastal/pm/pmz152.txt
+PMZ153|Coastal Northern Mariana Islands|Tinian Coastal Waters |/coastal/pm/pmz153.txt
+PMZ154|Coastal|Saipan Coastal Waters |/coastal/pm/pmz154.txt
+PMZ161|Coastal Palau|Koror Palau Coastal Waters |/coastal/pm/pmz161.txt
+PMZ171|Coastal Micronesia|Yap Coastal Waters |/coastal/pm/pmz171.txt
+PMZ172|Coastal Micronesia|Chuuk Coastal Waters |/coastal/pm/pmz172.txt
+PMZ173|Coastal Micronesia|Pohnpei Coastal Waters |/coastal/pm/pmz173.txt
+PMZ174|Coastal Micronesia|Kosrae Coastal Waters |/coastal/pm/pmz174.txt
+PMZ181|Coastal Marshall Islands|Majuro Coastal Waters |/coastal/pm/pmz181.txt
+PSZ100|Coastal American Samoa|Synopsis for American Samoa Waters |/coastal/ps/psz100.txt
+PSZ150|Coastal American Samoa|Coastal Waters of Tututila and Aunuu Islands |/coastal/ps/psz150.txt
+PSZ151|Coastal American Samoa|Coastal Waters of Manua Islands |/coastal/ps/psz151.txt
+PSZ152|Coastal American Samoa|Coastal Waters of Swains Island |/coastal/ps/psz152.txt
+PKZ398|Offshore Marine|Synopsis for the Eastern Gulf of Alaska|/offshore/pk/pkz398.txt
+PKZ310|Offshore Marine|Eastern Gulf of Alaska|/offshore/pk/pkz310.txt
+PKZ399|Offshore Marine|Synopsis for the Western Gulf of Alaska |/offshore/pk/pkz399.txt
+PKZ351|Offshore Marine|Gulf of Alaska offshore north of 57 degrees North and west of 144 degrees West.|/offshore/pk/pkz351.txt
+PKZ352|Offshore Marine|Gulf of Alaska offshore south of 57 degrees North north of 55 degrees North and west of 144 degrees West.|/offshore/pk/pkz352.txt
+PKZ499|Offshore Marine|Synopsis for Bering Sea |/offshore/pk/pkz499.txt
+PKZ411|Offshore Marine|Bering Sea offshore west of 180 degrees and east of the International Date Line|/offshore/pk/pkz411.txt
+PKZ412|Offshore Marine|Bering Sea offshore 171 degrees West to180 degrees and north of 56 degrees North|/offshore/pk/pkz412.txt
+PKZ413|Offshore Marine|Bering Sea offshore 171 degrees West to 180 degrees and south of 56 degrees North|/offshore/pk/pkz413.txt
+PKZ414|Offshore Marine|Bering Sea offshore east of 171 degrees West|/offshore/pk/pkz414.txt
+PKZ098|Coastal|Synopsis for SE Alaska inside waters |/coastal/pk/pkz098.txt
+PKZ011|Coastal|Glacier Bay|/coastal/pk/pkz011.txt
+PKZ012|Coastal|Northern Lynn Canal|/coastal/pk/pkz012.txt
+PKZ013|Coastal|Southern Lynn Canal|/coastal/pk/pkz013.txt
+PKZ021|Coastal|Icy Strait|/coastal/pk/pkz021.txt
+PKZ022|Coastal|Cross Sound|/coastal/pk/pkz022.txt
+PKZ031|Coastal|Stephens Passage|/coastal/pk/pkz031.txt
+PKZ032|Coastal|Northern Chatham Strait|/coastal/pk/pkz032.txt
+PKZ033|Coastal|Southern Chatham Strait|/coastal/pk/pkz033.txt
+PKZ034|Coastal|Fredrick Sound|/coastal/pk/pkz034.txt
+PKZ035|Coastal|Sumner Strait|/coastal/pk/pkz035.txt
+PKZ036|Coastal|Clarence Strait|/coastal/pk/pkz036.txt
+PKZ099|Coastal|Synopsis for SE Alaska outside waters |/coastal/pk/pkz099.txt
+PKZ041|Coastal|Dixon Entrance to Cape Decision|/coastal/pk/pkz041.txt
+PKZ042|Coastal|Cape Decision to Cape Edgecumbe|/coastal/pk/pkz042.txt
+PKZ043|Coastal|Cape Edgecumbe to Cape Fairweather |/coastal/pk/pkz043.txt
+PKZ051|Coastal|Cape Fairweather to Icy Cape|/coastal/pk/pkz051.txt
+PKZ052|Coastal|Icy Cape to Cape Suckling|/coastal/pk/pkz052.txt
+PKZ053|Coastal|Yakutat Bay|/coastal/pk/pkz053.txt
+PKZ197|Coastal|Synopsis for North Gulf of Alaska Coast waters |/coastal/pk/pkz197.txt
+PKZ120|Coastal|Cape Suckling to Gore Point|/coastal/pk/pkz120.txt
+PKZ121|Coastal|Resurrection Bay|/coastal/pk/pkz121.txt
+PKZ125|Coastal|Prince William Sound|/coastal/pk/pkz125.txt
+PKZ126|Coastal|Port Valdez|/coastal/pk/pkz126.txt
+PKZ127|Coastal|Valdez Narrows|/coastal/pk/pkz127.txt
+PKZ128|Coastal|Valdez Arm|/coastal/pk/pkz128.txt
+PKZ129|Coastal|Passage Canal|/coastal/pk/pkz129.txt
+PKZ130|Coastal|Barren Islands and Kamishak Bay Waters|/coastal/pk/pkz130.txt
+PKZ132|Coastal|Shuyak Island to Sitkinak|/coastal/pk/pkz132.txt
+PKZ136|Coastal|Chiniak Bay|/coastal/pk/pkz136.txt
+PKZ137|Coastal|Marmot Bay|/coastal/pk/pkz137.txt
+PKZ138|Coastal|Shelikof Strait|/coastal/pk/pkz138.txt
+PKZ140|Coastal|Cook Inlet, north of Kamishak Bay and English Bay|/coastal/pk/pkz140.txt
+PKZ141|Coastal|Kachemak Bay|/coastal/pk/pkz141.txt
+PKZ199|Coastal|Synopsis for Southwest Alaska Coastal waters and Aleutian Islands |/coastal/pk/pkz199.txt
+PKZ150|Coastal|Coastal waters from South of Alaska Peninsula, Sitkinak to Castle Cape|/coastal/pk/pkz150.txt
+PKZ155|Coastal|Coastal waters from South of Alaska Peninsula, Castle Cape to Cape Sarichef, |/coastal/pk/pkz155.txt
+PKZ160|Coastal|Bristol Bay Waters Cape Newenham to Port Heiden|/coastal/pk/pkz160.txt
+PKZ165|Coastal|Port Heiden to Cape Sarichef|/coastal/pk/pkz165.txt
+PKZ170|Coastal|Eastern Aleutian Islands, Cape Sarichef to Nikolski|/coastal/pk/pkz170.txt
+PKZ171|Coastal|Unalaska Bay|/coastal/pk/pkz171.txt
+PKZ172|Coastal|Eastern Aleutian Islands, Nikolski to Adak |/coastal/pk/pkz172.txt
+PKZ175|Coastal|Western Aleutian Islands, Adak to Kiska|/coastal/pk/pkz175.txt
+PKZ176|Coastal|Western Aleutian Islands, Kiska to Attu|/coastal/pk/pkz176.txt
+PKZ179|Coastal|Pribilof Island Near-Shore Waters|/coastal/pk/pkz179.txt
+PKZ180|Coastal|Southwest Alaska Waters Cape Newenham to Dall Point|/coastal/pk/pkz180.txt
+PKZ185|Coastal|St. Matthews Island waters|/coastal/pk/pkz185.txt
+PKZ299|Coastal|Synopsis for Northwest Alaskan Coast|/coastal/pk/pkz299.txt
+PKZ200|Coastal|Norton Sound|/coastal/pk/pkz200.txt
+PKZ210|Coastal|Dall Point to Wales|/coastal/pk/pkz210.txt
+PKZ215|Coastal|Kotzebue Sound|/coastal/pk/pkz215.txt
+PKZ220|Coastal|Wales to Cape Thompson|/coastal/pk/pkz220.txt
+PKZ298|Coastal|Synopsis for Arctic Coast|/coastal/pk/pkz298.txt
+PKZ225|Coastal|Cape Thompson to Cape Beaufort|/coastal/pk/pkz225.txt
+PKZ230|Coastal|Cape Beaufort to Point Franklin|/coastal/pk/pkz230.txt
+PKZ235|Coastal|Point Franklin to Cape Halkett|/coastal/pk/pkz235.txt
+PKZ240|Coastal|Cape Halkett to Flaxman Island|/coastal/pk/pkz240.txt
+PKZ245|Coastal|Flaxman Island to Demarcation Point|/coastal/pk/pkz245.txt
+LSZ261|Lake Superior|Lake Superior MAFOR only|/great_lakes/ls/lsz261.txt
+LSZ162|Lake Superior|Lake Superior west of a line from Saxon Harbor WI to Grand Portage MN beyond 5 NM|/great_lakes/ls/lsz162.txt
+LSZ263|Lake Superior|Lake Superior from Saxon Harbor WI to Upper Entrance to Portage Canal MI 5 NM offshore to the U.S./Canadian border including Isle Royal National Park|/great_lakes/ls/lsz263.txt
+LSZ264|Lake Superior|Lake Superior from Upper Entrance to Portage Canal to Manitou Island MI 5 NM offshore to the U.S./Canadian border|/great_lakes/ls/lsz264.txt
+LSZ265|Lake Superior| Lake Superior east of a line from Manitou Island to Marquette MI and west of a line from Grand Marais MI to the U.S./Canadian border beyond 5 NM from shore|/great_lakes/ls/lsz265.txt
+LSZ266|Lake Superior|Lake Superior from Grand Marais MI to Whitefish Point MI 5 NM offshore to the U.S./Canadian border|/great_lakes/ls/lsz266.txt
+LSZ267|Lake Superior|Lake Superior from Grand Marais MI to Whitefish Point MI 5 NM offshore to the U.S./Canadian border|/great_lakes/ls/lsz267.txt
+LMZ761|Lake Michigan|Lake Michigan MAFOR only|/great_lakes/lm/lmz761.txt
+LMZ261|Lake Michigan|Lake Michigan from Seul Choix Point to Rock Island Passage 5 NM offshore to mid lake|/great_lakes/lm/lmz261.txt
+LMZ362|Lake Michigan|Lake Michigan south of a line from Seul Choix Point to the Mackinac Bridge and north of a line from Charlevoix MI to South Fox Island 5 NM offshore|/great_lakes/lm/lmz362.txt
+LMZ364|Lake Michigan|Lake Michigan from Charlevoix to Point Betsie MI 5 NM offshore to mid lake|/great_lakes/lm/lmz364.txt
+LMZ366|Lake Michigan|Lake Michigan from Point Betsie to Manistee MI 5 NM offshore to mid lake|/great_lakes/lm/lmz366.txt
+LMZ563|Lake Michigan|Lake Michigan from Rock Island Passage to Sturgeon Bay WI 5 NM offshore to mid lake|/great_lakes/lm/lmz563.txt
+LMZ565|Lake Michigan|Lake Michigan from Sturgeon Bay to Two Rivers WI 5 NM offshore to mid lake|/great_lakes/lm/lmz565.txt
+LMZ567|Lake Michigan|Lake Michigan from Two Rivers to Sheboygan WI 5 NM offshore to mid lake|/great_lakes/lm/lmz567.txt
+LMZ669|Lake Michigan|Lake Michigan from Sheboygan to Port Washington WI 5 NM offshore to mid lake|/great_lakes/lm/lmz669.txt
+LMZ671|Lake Michigan|Lake Michigan from Port Washington to North Point Light WI 5 NM offshore to mid lake|/great_lakes/lm/lmz671.txt
+LMZ673|Lake Michigan|Lake Michigan from North Point Light to Wind Point WI 5 NM offshore to mid lake|/great_lakes/lm/lmz673.txt
+LMZ675|Lake Michigan|Lake Michigan from Wind Point WI to Winthrop Harbor IL 5 NM offshore to mid lake|/great_lakes/lm/lmz675.txt
+LMZ777|Lake Michigan|Lake Michigan from Winthrop Harbor to Wilmette Harbor IL 5 NM offshore to mid lake|/great_lakes/lm/lmz777.txt
+LMZ779|Lake Michigan|Lake Michigan from Wilmette Harbor IL to Michigan City IN 5 NM offshore to mid lake|/great_lakes/lm/lmz779.txt
+LMZ080|Lake Michigan|Lake Michigan from Michigan City IN to St. Joseph MI 5 NM offshore to mid lake|/great_lakes/lm/lmz080.txt
+LMZ878|Lake Michigan|Lake Michigan from St. Joseph to South Haven MI 5 NM offshore to mid lake|/great_lakes/lm/lmz878.txt
+LMZ876|Lake Michigan|Lake Michigan from South Haven to Holland MI 5 NM offshore to mid lake|/great_lakes/lm/lmz876.txt
+LMZ874|Lake Michigan|Lake Michigan from Holland to Grand Haven MI 5 NM offshore to mid lake|/great_lakes/lm/lmz874.txt
+LMZ872|Lake Michigan|Lake Michigan from Grand Haven to Whitehall MI 5 NM offshore to mid lake|/great_lakes/lm/lmz872.txt
+LMZ870|Lake Michigan|Lake Michigan from Whitehall to Pentwater MI 5 NM offshore to mid lake|/great_lakes/lm/lmz870.txt
+LMZ868|Lake Michigan|Lake Michigan from Pentwater to Manistee MI 5 NM offshore to mid lake|/great_lakes/lm/lmz868.txt
+LHZ461|Lake Huron|Lake Huron MAFOR |/great_lakes/lh/lhz461.txt
+LHZ361|Lake Huron|Lake Huron from 5 NM east of Mackinac Bridge to Presque Isle Light MI to the U.S./Canadian border 5 NM offshore|/great_lakes/lh/lhz361.txt
+LHZ362|Lake Huron|Lake Huron from Presque Isle Light to Sturgeon Point MI 5 NM offshore to the U.S./Canadian border|/great_lakes/lh/lhz362.txt
+LHZ363|Lake Huron|Lake Huron from Sturgeon Point to Alabaster MI 5 NM offshore to the U.S./Canadian border|/great_lakes/lh/lhz363.txt
+LHZ462|Lake Huron|Lake Huron Port Austin to Harbor Beach MI 5 NM offshore to U.S./Canadian border|/great_lakes/lh/lhz462.txt
+LHZ463|Lake Huron|Lake Huron Harbor Beach to Port Sanilac MI 5 NM offshore to U.S./Canadian border|/great_lakes/lh/lhz463.txt
+LHZ464|Lake Huron|Lake Huron Port Sanilac to Port Huron 5 NM offshore to U.S./Canadian border|/great_lakes/lh/lhz464.txt
+LCZ460|Lake St. Clair|Lake St. Clair (U.S. portion)|/great_lakes/lc/lcz460.txt
+LEZ161|Lake Erie|Lake Erie MAFOR only|/great_lakes/le/lez161.txt
+LEZ162|Lake Erie|Detroit River Light to Maumee Bay OH to Reno Beach OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez162.txt
+LEZ163|Lake Erie| Reno Beach to The Islands OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez163.txt
+LEZ164|Lake Erie|The Islands to Vermilion OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez164.txt
+LEZ165|Lake Erie|Vermilion to Avon Point OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez165.txt
+LEZ166|Lake Erie|Avon Point to Willowick OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez166.txt
+LEZ167|Lake Erie|Willowick to Geneva-on-the Lake OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez167.txt
+LEZ168|Lake Erie|Geneva-on-the-Lake to Conneaut OH beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez168.txt
+LEZ169|Lake Erie|Conneaut OH to Ripley NY beyond 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez169.txt
+LEZ061|Lake Erie|Ripley to Buffalo NY extending from 5 NM offshore to U.S./Canadian border|/great_lakes/le/lez061.txt
+LOZ061|Lake Ontario|Lake Ontario MAFOR only|/great_lakes/lo/loz061.txt
+LOZ062|Lake Ontario|Niagara River to Hamlin Beach NY beyond 5 NM offshore to U.S./Canadian border|/great_lakes/lo/loz062.txt
+LOZ063|Lake Ontario|Hamlin Beach to Sodus Bay NY beyond 5 NM offshore to U.S./Canadian border|/great_lakes/lo/loz063.txt
+LOZ064|Lake Ontario|Sodus Bay to Mexico Bay NY beyond 5 NM offshore to U.S./Canadian border|/great_lakes/lo/loz064.txt
+LOZ065|Lake Ontario|Mexico Bay NY to the St. Lawrence River beyond 5 NM offshore to U.S./Canadian border|/great_lakes/lo/loz065.txt
+LSZ140|Near Shore Lake Superior|Grand Portage to Grand Marais, MN|/near_shore/ls/lsz140.txt
+LSZ141|Near Shore Lake Superior|Grand Marais to Taconite Harbor, MN|/near_shore/ls/lsz141.txt
+LSZ142|Near Shore Lake Superior|Taconite Harbor to Silver Bay Harbor, MN|/near_shore/ls/lsz142.txt
+LSZ143|Near Shore Lake Superior|Silver Bay Harbor to Two Harbors, MN|/near_shore/ls/lsz143.txt
+LSZ144|Near Shore Lake Superior|Two Harbors to Duluth, MN|/near_shore/ls/lsz144.txt
+LSZ145|Near Shore Lake Superior|Duluth, MN to Port Wing, WI|/near_shore/ls/lsz145.txt
+LSZ146|Near Shore Lake Superior|Port Wing to Sand Island, WI|/near_shore/ls/lsz146.txt
+LSZ147|Near Shore Lake Superior|Sand Island to Bayfield, WI|/near_shore/ls/lsz147.txt
+LSZ121|Near Shore Lake Superior|Chequamegon Bay-Bayfield to Oak Point, WI|/near_shore/ls/lsz121.txt
+LSZ148|Near Shore Lake Superior|Oak Point to Saxon Harbor, WI|/near_shore/ls/lsz148.txt
+LSZ240|Near Shore Lake Superior|Saxon Harbor WI to Black River MI|/near_shore/ls/lsz240.txt
+LSZ241|Near Shore Lake Superior|Black River to Ontonagon MI|/near_shore/ls/lsz241.txt
+LSZ242|Near Shore Lake Superior|Ontonagon to Upper Entrance of Portage Canal MI|/near_shore/ls/lsz242.txt
+LSZ243|Near Shore Lake Superior|Upper Entrance of Portage Canal to Eagle River MI|/near_shore/ls/lsz243.txt
+LSZ244|Near Shore Lake Superior|Eagle River to Manitou Island MI|/near_shore/ls/lsz244.txt
+LSZ245|Near Shore Lake Superior|Manitou Island to Point Isabelle MI|/near_shore/ls/lsz245.txt
+LSZ246|Near Shore Lake Superior|Point Isabelle to Lower Entrance of Portage Canal MI|/near_shore/ls/lsz246.txt
+LSZ247|Near Shore Lake Superior|Lower Entrance of Portage Canal to Huron Islands MI including Keweenaw and Huron Bays|/near_shore/ls/lsz247.txt
+LSZ248|Near Shore Lake Superior|Huron Islands to Marquette MI|/near_shore/ls/lsz248.txt
+LSZ249|Near Shore Lake Superior|Marquette to Munising MI|/near_shore/ls/lsz249.txt
+LSZ250|Near Shore Lake Superior|Munising to Grand Marais MI|/near_shore/ls/lsz250.txt
+LSZ251|Near Shore Lake Superior|Grand Marais to Whitefish Point MI|/near_shore/ls/lsz251.txt
+LSZ321|Near Shore Lake Superior|Whitefish Bay (U.S. Portion) Whitefish Point to Point Iroquois MI|/near_shore/ls/lsz321.txt
+LSZ322|Near Shore Lake Superior|St. Marys River Point Iroquois to E. Potagannissing Bay to Eastern Potagannissing Bay|/near_shore/ls/lsz322.txt
+LMZ221|Near Shore Lake Michigan|Green Bay north of a line from Cedar River MI to Rock Island Passage|/near_shore/lm/lmz221.txt
+LMZ248|Near Shore Lake Michigan|Seul Choix Point to Point Detour MI|/near_shore/lm/lmz248.txt
+LMZ250|Near Shore Lake Michigan|5 NM east of a line from Fairport MI to Rock Island Passage|/near_shore/lm/lmz250.txt
+LMZ341|Near Shore Lake Michigan|Seul Choix Point to 5 NM west of Mackinac Bridge|/near_shore/lm/lmz341.txt
+LMZ342|Near Shore Lake Michigan|Norwood MI to 5 NM west of Mackinac Bridge including Little Traverse Bay|/near_shore/lm/lmz342.txt
+LMZ323|Near Shore Lake Michigan|Grand Traverse Bay south of a line Grand Traverse Light to Norwood MI|/near_shore/lm/lmz323.txt
+LMZ344|Near Shore Lake Michigan|Sleeping Bear Point to Grand Traverse Light MI|/near_shore/lm/lmz344.txt
+LMZ345|Near Shore Lake Michigan|Point Betsie to Sleeping Bear Point MI|/near_shore/lm/lmz345.txt
+LMZ346|Near Shore Lake Michigan|Manistee to Point Betsie MI|/near_shore/lm/lmz346.txt
+LMZ849|Near Shore Lake Michigan|Pentwater to Manistee, MI|/near_shore/lm/lmz849.txt
+LMZ848|Near Shore Lake Michigan|Whitehall to Pentwater, MI|/near_shore/lm/lmz848.txt
+LMZ847|Near Shore Lake Michigan|Grand Haven to Whitehall, MI|/near_shore/lm/lmz847.txt
+LMZ846|Near Shore Lake Michigan|Holland to Grand Haven, MI|/near_shore/lm/lmz846.txt
+LMZ845|Near Shore Lake Michigan|South Haven to Holland, MI|/near_shore/lm/lmz845.txt
+LMZ844|Near Shore Lake Michigan|St. Joseph to South Haven, MI|/near_shore/lm/lmz844.txt
+LMZ043|Near Shore Lake Michigan|New Buffalo MI to St. Joseph, MI|/near_shore/lm/lmz043.txt
+LMZ046|Near Shore Lake Michigan|Michigan City, IN to New Buffalo, MI|/near_shore/lm/lmz046.txt
+LMZ521|Near Shore Lake Michigan|Green Bay south of line from Cedar River MI to Rock Island Passage and north of a line from Oconto WI to Little Sturgeon Bay WI|/near_shore/lm/lmz521.txt
+LMZ522|Near Shore Lake Michigan|Green Bay south of a line from Oconto WI to Little Sturgeon Bay WI|/near_shore/lm/lmz522.txt
+LMZ541|Near Shore Lake Michigan|Rock Island Passage to Sturgeon Bay WI|/near_shore/lm/lmz541.txt
+LMZ542|Near Shore Lake Michigan| Sturgeon Bay to Two Rivers WI|/near_shore/lm/lmz542.txt
+LMZ543|Near Shore Lake Michigan|Two Rivers to Sheboygan WI|/near_shore/lm/lmz543.txt
+LMZ643|Near Shore Lake Michigan|Sheboygan to Port Washington, WI|/near_shore/lm/lmz643.txt
+LMZ644|Near Shore Lake Michigan|Port Washington to North Point Light, WI|/near_shore/lm/lmz644.txt
+LMZ645|Near Shore Lake Michigan|North Point Light to Wind Point, WI|/near_shore/lm/lmz645.txt
+LMZ646|Near Shore Lake Michigan|Wind Point to Winthrop Harbor, IL|/near_shore/lm/lmz646.txt
+LMZ740|Near Shore Lake Michigan|Winthrop Harbor to Wilmette Harbor, IL|/near_shore/lm/lmz740.txt
+LMZ741|Near Shore Lake Michigan|Wilmette Harbor to Northerly Island, IL|/near_shore/lm/lmz741.txt
+LMZ742|Near Shore Lake Michigan|Northerly Island to Calumet Harbor, IL|/near_shore/lm/lmz742.txt
+LMZ743|Near Shore Lake Michigan|Calumet Harbor to Gary, IN|/near_shore/lm/lmz743.txt
+LMZ744|Near Shore Lake Michigan|Gary to Burns Harbor, IN|/near_shore/lm/lmz744.txt
+LMZ745|Near Shore Lake Michigan|Burns Harbor to Michigan City, IN|/near_shore/lm/lmz745.txt
+LMZ046|Near Shore Lake Michigan|Michigan City, IN to New Buffalo, MI|/near_shore/lm/lmz046.txt
+LHZ345|Near Shore Lake Huron|Straits of Mackinac within 5 NM of Mackinac Bridge including Mackinac Island|/near_shore/lh/lhz345.txt
+LHZ346|Near Shore Lake Huron|St. Ignace to False Detour Channel|/near_shore/lh/lhz346.txt
+LHZ347|Near Shore Lake Huron|5 NM east of Mackinac Bridge to Presque Isle Light MI including Bois Blanc Island|/near_shore/lh/lhz347.txt
+LHZ348|Near Shore Lake Huron|Presque Isle Light to Sturgeon Point MI including Thunder Bay National Marine Sanctuary|/near_shore/lh/lhz348.txt
+LHZ349|Near Shore Lake Huron|Sturgeon Point to Alabaster MI|/near_shore/lh/lhz349.txt
+LHZ441|Near Shore Lake Huron|Port Austin to Harbor Beach, MI|/near_shore/lh/lhz441.txt
+LHZ442|Near Shore Lake Huron|Harbor Beach to Port Sanilac, MI|/near_shore/lh/lhz442.txt
+LHZ443|Near Shore Lake Huron|Port Sanilac to Port Huron, MI|/near_shore/lh/lhz443.txt
+LHZ421|Near Shore Lake Huron|Outer Saginaw Bay SW of Alabaster to Point Austin to Inner Saginaw Bay, MI|/near_shore/lh/lhz421.txt
+LHZ422|Near Shore Lake Huron|Inner Saginaw Bay...SW of Pt. Au Gres to Bay Port, MI|/near_shore/lh/lhz422.txt
+LCZ460|Near Shore Lake St. Clair|Lake St. Clair, MI (U.S. Portion)|/great_lakes/lc/lcz460.txt
+LEZ444|Near Shore Lake Erie|Michigan Waters of Lake Erie from Detroit River to North Cape, MI|/near_shore/le/lez444.txt
+LEZ142|Near Shore Lake Erie|Maumee Bay to Reno Beach, OH|/near_shore/le/lez142.txt
+LEZ143|Near Shore Lake Erie|Reno Beach to The Islands, OH|/near_shore/le/lez143.txt
+LEZ144|Near Shore Lake Erie|The Islands to Vermilion, OH|/near_shore/le/lez144.txt
+LEZ145|Near Shore Lake Erie|Vermilion to Avon Point, OH|/near_shore/le/lez145.txt
+LEZ146|Near Shore Lake Erie|Avon Point to Willowick, OH|/near_shore/le/lez146.txt
+LEZ147|Near Shore Lake Erie|Willowick to Geneva-on-the-Lake, OH|/near_shore/le/lez147.txt
+LEZ148|Near Shore Lake Erie|Geneva-on-the-Lake to Conneaut, OH|/near_shore/le/lez148.txt
+LEZ149|Near Shore Lake Erie|Conneaut, OH to Ripley, NY|/near_shore/le/lez149.txt
+LEZ040|Near Shore Lake Erie|Ripley to Dunkirk, NY|/near_shore/le/lez040.txt
+LEZ041|Near Shore Lake Erie|Dunkirk to Buffalo, NY|/near_shore/le/lez041.txt
+LEZ020|Near Shore Lake Erie|Buffalo Harbor and the Upper Niagara River, NY|/near_shore/le/lez020.txt
+LOZ042|Near Shore Lake Ontario|Niagara River to Hamlin Beach, NY|/near_shore/lo/loz042.txt
+LOZ043|Near Shore Lake Ontario|Hamlin Beach to Sodus Bay, NY|/near_shore/lo/loz043.txt
+LOZ044|Near Shore Lake Ontario|Sodus Bay to Mexico Bay, NY|/near_shore/lo/loz044.txt
+LOZ045|Near Shore Lake Ontario|Mexico Bay, NY to the St. Lawrence River|/near_shore/lo/loz045.txt
+SLZ022|Near Shore Lake Ontario|St. Lawrence River above Ogdensburg, NY|/great_lakes/sl/slz022.txt
+SLZ024|Near Shore Lake Ontario|St. Lawrence River from Ogdensburg to St. Regis, NY|/great_lakes/sl/slz024.txt
+GMZ089|Offshore Marine|Synopsis for Gulf of Mexico|/offshore/gm/gmz089.txt
+GMZ080|Offshore Marine|Northwest Gulf|/offshore/gm/gmz080.txt
+GMZ082|Offshore Marine|Southwest Gulf|/offshore/gm/gmz082.txt
+GMZ084|Offshore Marine|Middle Gulf|/offshore/gm/gmz084.txt
+GMZ086|Offshore Marine|East Gulf|/offshore/gm/gmz086.txt
+AMZ088|Offshore Marine|Synopsis for Southwest North Atlantic|/offshore/am/amz088.txt
+AMZ080|Offshore Marine|Southwest North Atlantic South of 31º N and West of 65º W|/offshore/am/amz080.txt
+AMZ089|Offshore Marine|Synopsis for Caribbean Sea|/offshore/am/amz089.txt
+AMZ082|Offshore Marine|Northwest Caribbean North of 15º N and West of 75º W|/offshore/am/amz082.txt
+AMZ084|Offshore Marine|Southwest Caribbean South of 15º N and West of 75º W|/offshore/am/amz084.txt
+AMZ086|Offshore Marine|East Caribbean East of 75ºW|/offshore/am/amz086.txt
+AMZ087|Offshore Marine|Tropical North Atlantic  07-22º N, 55-65º W |/offshore/am/amz087.txt
+GMZ005|Coastal|Synopsis for Florida Bay and the Keys|/coastal/gm/gmz005.txt 
+GMZ052|Coastal|Ocean Reef to Craig Key, FL out 20 nm|/coastal/gm/gmz052.txt
+GMZ072|Coastal|Ocean Reef to Craig Key, FL extending from 20 nm to 60 nm|/coastal/gm/gmz072.txt
+GMZ031|Coastal|Florida Bay|/coastal/gm/gmz031.txt
+GMZ032|Coastal|Gulf side of the lower Keys out 20 nm|/coastal/gm/gmz032.txt
+GMZ053|Coastal|Craig Key to the west end of 7 mile bridge out 20 nm|/coastal/gm/gmz053.txt
+GMZ073|Coastal|Craig Key to west end of 7 mile bridge extending from 20 nm to 60 nm|/coastal/gm/gmz073.txt
+GMZ054|Coastal|West end of 7 mile bridge to Key West, FL out 20 nm|/coastal/gm/gmz054.txt
+GMZ074|Coastal|West end of 7 mile bridge to Key West, FL extending from 20 nm to 60 nm|/coastal/gm/gmz074.txt
+GMZ075|Coastal|Gulf waters from Key West, FL [west to 20 nm west of Dry Tortugas, and north 20 south 60 nm from Dry Tortugas]|/coastal/gm/gmz075.txt
+GMZ033|Coastal|Gulf waters from East Cape Sable to Chokoloskee, FL extending from 20 nm to 60 nm|/coastal/gm/gmz033.txt
+GMZ606|Coastal|Synopsis for East Cape Sable to Bonita Beach, FL out 60 nm|/coastal/gm/gmz606.txt
+GMZ657|Coastal|Coastal waters from East Cape Sable to Chokoloskee, FL out 20 nm|/coastal/gm/gmz657.txt
+GMZ656|Coastal|Coastal waters from Chokoloskee to Bonita Beach, FL out 20 nm|/coastal/gm/gmz656.txt
+GMZ676|Coastal|Waters from Chokoloskee to Bonita Beach, FL from 20 to 60 nm|/coastal/gm/gmz676.txt
+GMZ800|Coastal|Synopsis for Bonita Beach to Suwannee River, FL out 60 nm|/coastal/gm/gmz800.txt
+GMZ856|Coastal|Coastal waters from Bonita Beach to Englewood, FL out 20 nm|/coastal/gm/gmz856.txt
+GMZ876|Coastal|Waters from Bonita Beach to Englewood, FL extending from 20 to 60 nm|/coastal/gm/gmz876.txt
+GMZ830|Coastal|Tampa Bay|/coastal/gm/gmz830.txt
+GMZ853|Coastal|Coastal waters from Englewood to Tarpon Springs, FL out 20 nm|/coastal/gm/gmz853.txt
+GMZ873|Coastal|Waters from Englewood to Tarpon Springs, FL extending from 20 to 60 nm|/coastal/gm/gmz873.txt
+GMZ850|Coastal|Coastal waters from Tarpon Springs to Suwannee River, FL out 20 nm|/coastal/gm/gmz850.txt
+GMZ870|Coastal|Waters from Tarpon Springs to Suwannee River, FL extending from 20 nm to 60 nm|/coastal/gm/gmz870.txt
+GMZ700|Coastal|Synopsis for Suwannee River to Destin, FL out 60 nm|/coastal/gm/gmz700.txt 
+GMZ730|Coastal|Apalachee Bay or Coastal Waters From Keaton Beach to Ochlockonee River FL out to 20 nm|/coastal/gm/gmz730.txt
+GMZ755|Coastal|Coastal waters from Ochlockonee River to Apalachicola, FL out 20 nm|/coastal/gm/gmz755.txt
+GMZ775|Coastal|Waters from Suwannee River to Apalachicola, FL extending from 20 to 60 nm|/coastal/gm/gmz775.txt
+GMZ750|Coastal|Coastal waters from Apalachicola to Destin, FL out 20 nm|/coastal/gm/gmz750.txt
+GMZ765|Coastal|Coastal waters from Suwanee River to Keaton Beach out 20 nm|/coastal/gm/gmz765.txt
+GMZ770|Coastal|Waters from Apalachicola to Destin, FL extending from 20 to 60 nm|/coastal/gm/gmz770.txt
+GMZ701|Coastal|Synopsis for Apalachicola to Destin, FL out 60 nm |/coastal/gm/gmz701.txt 
+GMZ750|Coastal|Coastal waters from Apalachicola to Destin, FL out 20 nm |/coastal/gm/gmz750.txt
+GMZ770|Coastal|Waters from Apalachicola to Destin, FL extending from 20 to 60 nm |/coastal/gm/gmz770.txt
+GMZ600|Coastal|Synopsis for Destin to Pascagoula, MS out 60 nm|/coastal/gm/gmz600.txt
+GMZ655|Coastal|Coastal waters from Destin to Pensacola, FL out 20 nm|/coastal/gm/gmz655.txt
+GMZ675|Coastal|Waters from Destin to Pensacola, FL extending from 20 to 60 nm|/coastal/gm/gmz675.txt
+GMZ650|Coastal|Coastal waters from Pensacola, FL to Pascagoula, MS out 20 nm|/coastal/gm/gmz650.txt
+GMZ670|Coastal|Waters from Pensacola, FL to Pascagoula, MS extending from 20 to 60 nm|/coastal/gm/gmz670.txt
+GMZ630|Coastal|Mobile Bay|/coastal/gm/gmz630.txt
+GMZ500|Coastal|Synopsis for Pascagoula, MS to Southwest Pass of the Mississippi River out 60 nm|/coastal/gm/gmz500.txt
+GMZ530|Coastal|Lake Pontchartrain / Lake Maurepas|/coastal/gm/gmz530.txt
+GMZ555|Coastal|Coastal waters from Pascagoula, MS to the southwest pass of the Mississippi River out 20 nm|/coastal/gm/gmz555.txt
+GMZ575|Coastal|Waters from Pascagoula, MS to the southwest pass of the Mississippi River extending from 20 to 60 nm|/coastal/gm/gmz575.txt
+GMZ501|Coastal|Synopsis for Southwest pass of the Mississippi River to Atchafalaya River, LA out 60 nm|/coastal/gm/gmz501.txt
+GMZ550|Coastal|Coastal waters from Mississippi River to Lower Atchafalaya River, LA out 20 nm|/coastal/gm/gmz550.txt
+GMZ570|Coastal|Waters from Mississippi River to Lower Atchafalaya River, LA extending from 20 to 60 nm|/coastal/gm/gmz570.txt
+GMZ400|Coastal|Synopsis for Atchafalaya River to High Island, TX out 60 nm|/coastal/gm/gmz400.txt
+GMZ455|Coastal|Coastal waters from Lower Atchafalaya River to Cameron, LA out 20 nm |/coastal/gm/gmz455.txt
+GMZ475|Coastal|Waters from Lower Atchafalaya River to Cameron, LA extending from 20 to 60 nm |/coastal/gm/gmz475.txt
+GMZ450|Coastal|Coastal waters from Cameron, LA to High Island, TX out 20 nm |/coastal/gm/gmz450.txt
+GMZ470|Coastal|Waters from Cameron, LA to High Island, TX extending from 20 to 60 nm |/coastal/gm/gmz470.txt
+GMZ455|Coastal|Coastal waters from Lower Atchafalaya River to Intracoastal City, LA out 20 nm|/coastal/gm/gmz455.txt
+GMZ475|Coastal|Waters from Lower Atchafalaya River to Intracoastal City, LA extending from 20 to 60 nm|/coastal/gm/gmz475.txt
+GMZ452|Coastal|Coastal waters from Intracoastal City, LA to Cameron, LA out 20 nm|/coastal/gm/gmz452.txt
+GMZ472|Coastal|Waters from Intracoastal City, LA to Cameron, LA extending from 20 to 60 nm|/coastal/gm/gmz472.txt
+GMZ450|Coastal|Coastal waters from Cameron, LA to High Island, TX out 20 nm|/coastal/gm/gmz450.txt
+GMZ470|Coastal|Waters from Cameron, LA to High Island, TX extending from 20 to 60 nm|/coastal/gm/gmz470.txt
+GMZ300|Coastal|Synopsis for High Island to Matagorda Ship Channel out 60 nm|/coastal/gm/gmz300.txt
+GMZ335|Coastal|Galveston Bay|/coastal/gm/gmz335.txt
+GMZ355|Coastal|Coastal waters from High Island to Freeport, TX out 20 nm|/coastal/gm/gmz355.txt
+GMZ375|Coastal|Waters from High Island to Freeport, TX extending from 20 to 60 nm|/coastal/gm/gmz375.txt
+GMZ330|Coastal|Matagorda Bay|/coastal/gm/gmz330.txt
+GMZ350|Coastal|Coastal waters from Freeport to Matagorda Ship Channel out 20 nm|/coastal/gm/gmz350.txt
+GMZ370|Coastal|Waters from Freeport to Matagorda Ship Channel, TX extending from 20 to 60 nm|/coastal/gm/gmz370.txt
+GMZ200|Coastal|Synopsis for Matagorda Ship Channel to Baffin Bay, TX out 60 nm|/coastal/gm/gmz200.txt
+GMZ235|Coastal|Bays and Waterways from Port Aransas to Port OConnor|/coastal/gm/gmz235.txt
+GMZ255|Coastal|Coastal waters Port Aransas to Matagorda Ship Channel out 20 nm|/coastal/gm/gmz255.txt
+GMZ275|Coastal|Waters Port Aransas to Matagorda Ship Channel from 20 to 60 nm|/coastal/gm/gmz275.txt
+GMZ230|Coastal|Bays and Waterways from Baffin Bay to Port Aransas|/coastal/gm/gmz230.txt
+GMZ250|Coastal|Coastal waters Baffin Bay to Port Aransas out 20 nm|/coastal/gm/gmz250.txt
+GMZ270|Coastal|Waters Baffin Bay to Port Aransas from 20 to 60 nm|/coastal/gm/gmz270.txt
+GMZ100|Coastal|Synopsis for Baffin Bay to Rio Grande, TX out 60 nm|/coastal/gm/gmz100.txt
+GMZ155|Coastal|Coastal waters from Baffin Bay to Port Mansfield TX out 20 nm|/coastal/gm/gmz155.txt
+GMZ175|Coastal|Waters from Baffin Bay to Port Mansfield TX from 20 to 60 nm|/coastal/gm/gmz175.txt
+GMZ150|Coastal|Coastal waters from Port Mansfield to Rio Grande River TX out 20 nm|/coastal/gm/gmz150.txt
+GMZ170|Coastal|Waters from Port Mansfield to Rio Grande River TX from 20 to 60 nm|/coastal/gm/gmz170.txt
+GMZ135|Coastal|Laguna Madre from 5nm north of Port Mansfield to Baffin Bay TX|/coastal/gm/gmz135.txt
+GMZ132|Coastal|Laguna Madre from the Arroyo Colorado to 5nm north of Port Mansfield|/coastal/gm/gmz132.txt
+GMZ130|Coastal|Laguna Madre from the Port of Brownsville to the Arroyo Colorado|/coastal/gm/gmz130.txt
+PZZ080|Offshore Marine|Synopsis for Washington and Oregon waters from 60 to 250 NM offshore|/offshore/pz/pzz080.txt
+PZZ081|Offshore Marine|Cape Flattery to Cape Lookout |/offshore/pz/pzz081.txt
+PZZ082|Offshore Marine|Cape Lookout to Point St. George |/offshore/pz/pzz082.txt
+PZZ089|Offshore Marine|Synopsis for California waters from 60 to 250 NM offshore  |/offshore/pz/pzz089.txt
+PZZ083|Offshore Marine|Point St. George to Point Arena |/offshore/pz/pzz083.txt
+PZZ084|Offshore Marine|Point Arena to Point Conception |/offshore/pz/pzz084.txt
+PZZ085|Offshore Marine|Point Conception to Guadalupe Island |/offshore/pz/pzz085.txt
+PZZ100|Coastal|Synopsis for Northern and Central Washington Coastal and Inland Waters |/coastal/pz/pzz100.txt
+PZZ150|Coastal|Coastal waters from Cape Flattery to James Island out 10 NM|/coastal/pz/pzz150.txt
+PZZ170|Coastal|Coastal waters from Cape Flattery to James Island 10 to 60 NM|/coastal/pz/pzz170.txt
+PZZ153|Coastal|Coastal waters from James Island to Point Grenville out 10 NM|/coastal/pz/pzz153.txt
+PZZ173|Coastal|Coastal waters from James Island to Point Grenville 10 to 60 NM|/coastal/pz/pzz173.txt
+PZZ156|Coastal|Coastal waters from Point Grenville to Cape Shoalwater out 10 NM|/coastal/pz/pzz156.txt
+PZZ176|Coastal|Coastal waters from Point Grenville to Cape Shoalwater 10 to 60 NM|/coastal/pz/pzz176.txt
+PZZ110|Coastal|Grays Harbor Bar - Two period wave/current forecast only|/coastal/pz/pzz110.txt
+PZZ133|Coastal|Northern inland waters including the San Juan Islands|/coastal/pz/pzz133.txt
+PZZ135|Coastal|Puget Sound and Hood Canal|/coastal/pz/pzz135.txt
+PZZ134|Coastal|Admiralty Inlet|/coastal/pz/pzz134.txt
+PZZ132|Coastal|East Entrance U.S. waters Strait of Juan de Fuca|/coastal/pz/pzz132.txt
+PZZ131|Coastal|Central U.S. waters Strait of Juan de Fuca|/coastal/pz/pzz131.txt
+PZZ130|Coastal|West Entrance U.S. waters Strait of Juan de Fuca|/coastal/pz/pzz130.txt
+PZZ200|Coastal|Synopsis for Northern Oregon/Southern Washington Coast  |/coastal/pz/pzz200.txt
+PZZ250|Coastal|Cape Shoalwater, WA to Cascade Head, OR out 10 NM|/coastal/pz/pzz250.txt
+PZZ270|Coastal|Cape Shoalwater, WA to Cascade Head, OR from 10 to 60 NM|/coastal/pz/pzz270.txt
+PZZ255|Coastal|Cascade Head to Florence, OR out 10 NM|/coastal/pz/pzz255.txt
+PZZ275|Coastal|Cascade Head to Florence, OR from 10 to 60 NM|/coastal/pz/pzz275.txt
+PZZ210|Coastal|Columbia River Bar - 24 hour wave/current forecast only|/coastal/pz/pzz210.txt
+PZZ300|Coastal|Synopsis for Southern Oregon Coast  |/coastal/pz/pzz300.txt
+PZZ350|Coastal|Florence to Cape Blanco, OR out 10 NM|/coastal/pz/pzz350.txt
+PZZ370|Coastal|Florence to Cape Blanco, OR from 10 to 60 NM|/coastal/pz/pzz370.txt
+PZZ356|Coastal|Cape Blanco, OR to Pt. St. George, CA out 10 NM|/coastal/pz/pzz356.txt
+PZZ376|Coastal|Cape Blanco, OR to Pt. St. George, CA from 10 to 60 NM|/coastal/pz/pzz376.txt
+PZZ400|Coastal|Synopsis for Northern California Coast  |/coastal/pz/pzz400.txt
+PZZ450|Coastal|Pt. St. George to Cape Mendocino, CA westward 10 NM |/coastal/pz/pzz450.txt
+PZZ470|Coastal|Pt. St. George to Cape Mendocino, CA extending westward 10 NM to 60 NM |/coastal/pz/pzz470.txt
+PZZ455|Coastal|Cape Mendocino to Pt. Arena, CA westward 10 NM |/coastal/pz/pzz455.txt
+PZZ475|Coastal|Cape Mendocino to Pt. Arena, CA extending westward 10 NM to 60 NM |/coastal/pz/pzz475.txt
+PZZ500|Coastal|Synopsis for Central California Coast and Bays including Monterey Bay, Gulf of the Farallones&, and Cordell Bank National Marine Sanctuaries |/coastal/pz/pzz500.txt
+PZZ540|Coastal|Coastal Waters from Point Arena to Point Reyes CA out to 10 NM |/coastal/pz/pzz540.txt
+PZZ545|Coastal|Coastal Waters from Point Reyes to Pigeon Point CA out to 10 NM |/coastal/pz/pzz545.txt
+PZZ570|Coastal|Waters from Point Arena to Pigeon Point CA from 10 to 60 NM |/coastal/pz/pzz570.txt
+PZZ560|Coastal|Coastal Waters from Pigeon Point to Point Pinos, CA out to 10 NM |/coastal/pz/pzz560.txt
+PZZ565|Coastal|Coastal Waters from Point Pinos to Point Piedras Blancas, CA out to 10 NM |/coastal/pz/pzz565.txt
+PZZ575|Coastal|Waters from Pigeon Point to Point Piedras Blancas CA from 10 to 60 NM |/coastal/pz/pzz575.txt
+PZZ535|Coastal|Monterey Bay |/coastal/pz/pzz535.txt
+PZZ530|Coastal|San Francisco, San Pablo, Suisun Bays, and West Delta, CA |/coastal/pz/pzz530.txt
+PZZ600|Coastal|Synopsis for Southern California Coast  |/coastal/pz/pzz600.txt
+PZZ655|Coastal|Point Mugu to San Mateo Pt., CA [including Santa Catalina and Santa Barbara Islands]  |/coastal/pz/pzz655.txt
+PZZ676|Coastal|Santa Cruz Island to San Clemente Island out 60 NM including San Nicolas Island  |/coastal/pz/pzz676.txt
+PZZ650|Coastal|East Santa Barbara Channel from Pt. Conception to Pt. Mugu, CA [including Santa Cruz and Anacapa Islands]  |/coastal/pz/pzz650.txt
+PZZ673|Coastal|Pt. Arguello to Santa Cruz Island, CA and westward 60 NM [including San Miguel and Santa Rosa Islands]  |/coastal/pz/pzz673.txt
+PZZ670|Coastal|Pt. Piedras Blancas to Pt. Arguello, CA and westward 60 NM  |/coastal/pz/pzz670.txt
+PZZ700|Coastal|Synopsis for Far Southern California coast  |/coastal/pz/pzz700.txt
+PZZ750|Coastal|San Mateo Point, CA to the Mexican Border and out 30 NM |/coastal/pz/pzz750.txt
+PZZ775|Coastal|San Mateo Point, CA to the Mexican Border 30-60 NM out including San Clemente Island|/coastal/pz/pzz775.txt

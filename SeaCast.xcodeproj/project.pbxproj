@@ -1,0 +1,337 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* SeaCastAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SeaCastAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		DB6E802A0FD09B1700C8D00F /* all.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6E80290FD09B1700C8D00F /* all.png */; };
+		DB6E802C0FD09B2300C8D00F /* faves.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6E802B0FD09B2300C8D00F /* faves.png */; };
+		DB6E802E0FD09B2E00C8D00F /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6E802D0FD09B2E00C8D00F /* search.png */; };
+		DB6E80490FD0DECB00C8D00F /* SeaCast.sql in Resources */ = {isa = PBXBuildFile; fileRef = DB6E80480FD0DECB00C8D00F /* SeaCast.sql */; };
+		DB7778BC0FD0486C00852CDD /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DB7778BB0FD0486C00852CDD /* RootViewController.xib */; };
+		DB77796A0FD056B000852CDD /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DB7779690FD056B000852CDD /* icon.png */; };
+		DB88AB710FCFA6410011949B /* BuoyRegionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88AB700FCFA6410011949B /* BuoyRegionViewController.m */; };
+		DB88AB760FCFA6590011949B /* TideRegionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88AB750FCFA6590011949B /* TideRegionViewController.m */; };
+		DB88AB7B0FCFA6770011949B /* ForecastRegionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88AB7A0FCFA6770011949B /* ForecastRegionViewController.m */; };
+		DB88ABF70FCFAB130011949B /* ZoneDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABEA0FCFAB130011949B /* ZoneDetailViewController.m */; };
+		DB88ABF80FCFAB130011949B /* FastFeedCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABEC0FCFAB130011949B /* FastFeedCell.m */; };
+		DB88ABF90FCFAB130011949B /* FastTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABEE0FCFAB130011949B /* FastTableViewCell.m */; };
+		DB88ABFA0FCFAB130011949B /* NWSZone.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABF00FCFAB130011949B /* NWSZone.m */; };
+		DB88ABFB0FCFAB130011949B /* NWSForecastRegion.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABF20FCFAB130011949B /* NWSForecastRegion.m */; };
+		DB88ABFC0FCFAB130011949B /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABF40FCFAB130011949B /* RootViewController.m */; };
+		DB88ABFD0FCFAB130011949B /* ZoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88ABF60FCFAB130011949B /* ZoneViewController.m */; };
+		DB88AC150FCFAC0A0011949B /* zones.txt in Resources */ = {isa = PBXBuildFile; fileRef = DB88AC140FCFAC0A0011949B /* zones.txt */; };
+		DB88AC190FCFAC280011949B /* regions.txt in Resources */ = {isa = PBXBuildFile; fileRef = DB88AC180FCFAC280011949B /* regions.txt */; };
+		DBA755D00FD1920D00F0D494 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = DBA755CF0FD1920D00F0D494 /* libsqlite3.0.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* SeaCastAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeaCastAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* SeaCastAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SeaCastAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* SeaCast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeaCast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* SeaCast_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SeaCast_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* SeaCast-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SeaCast-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		DB6E80290FD09B1700C8D00F /* all.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = all.png; sourceTree = "<group>"; };
+		DB6E802B0FD09B2300C8D00F /* faves.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = faves.png; sourceTree = "<group>"; };
+		DB6E802D0FD09B2E00C8D00F /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		DB6E80480FD0DECB00C8D00F /* SeaCast.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = SeaCast.sql; sourceTree = "<group>"; };
+		DB7778BB0FD0486C00852CDD /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		DB7779690FD056B000852CDD /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		DB88AB6F0FCFA6410011949B /* BuoyRegionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuoyRegionViewController.h; sourceTree = "<group>"; };
+		DB88AB700FCFA6410011949B /* BuoyRegionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuoyRegionViewController.m; sourceTree = "<group>"; };
+		DB88AB740FCFA6590011949B /* TideRegionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TideRegionViewController.h; sourceTree = "<group>"; };
+		DB88AB750FCFA6590011949B /* TideRegionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TideRegionViewController.m; sourceTree = "<group>"; };
+		DB88AB790FCFA6770011949B /* ForecastRegionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForecastRegionViewController.h; sourceTree = "<group>"; };
+		DB88AB7A0FCFA6770011949B /* ForecastRegionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForecastRegionViewController.m; sourceTree = "<group>"; };
+		DB88ABE90FCFAB130011949B /* ZoneDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZoneDetailViewController.h; sourceTree = "<group>"; };
+		DB88ABEA0FCFAB130011949B /* ZoneDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZoneDetailViewController.m; sourceTree = "<group>"; };
+		DB88ABEB0FCFAB130011949B /* FastFeedCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FastFeedCell.h; sourceTree = "<group>"; };
+		DB88ABEC0FCFAB130011949B /* FastFeedCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FastFeedCell.m; sourceTree = "<group>"; };
+		DB88ABED0FCFAB130011949B /* FastTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FastTableViewCell.h; sourceTree = "<group>"; };
+		DB88ABEE0FCFAB130011949B /* FastTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FastTableViewCell.m; sourceTree = "<group>"; };
+		DB88ABEF0FCFAB130011949B /* NWSZone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NWSZone.h; sourceTree = "<group>"; };
+		DB88ABF00FCFAB130011949B /* NWSZone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NWSZone.m; sourceTree = "<group>"; };
+		DB88ABF10FCFAB130011949B /* NWSForecastRegion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NWSForecastRegion.h; sourceTree = "<group>"; };
+		DB88ABF20FCFAB130011949B /* NWSForecastRegion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NWSForecastRegion.m; sourceTree = "<group>"; };
+		DB88ABF30FCFAB130011949B /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		DB88ABF40FCFAB130011949B /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		DB88ABF50FCFAB130011949B /* ZoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZoneViewController.h; sourceTree = "<group>"; };
+		DB88ABF60FCFAB130011949B /* ZoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZoneViewController.m; sourceTree = "<group>"; };
+		DB88AC140FCFAC0A0011949B /* zones.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zones.txt; sourceTree = "<group>"; };
+		DB88AC180FCFAC280011949B /* regions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = regions.txt; sourceTree = "<group>"; };
+		DBA755CF0FD1920D00F0D494 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				DBA755D00FD1920D00F0D494 /* libsqlite3.0.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				DB88ABE90FCFAB130011949B /* ZoneDetailViewController.h */,
+				DB88ABEA0FCFAB130011949B /* ZoneDetailViewController.m */,
+				DB88ABEB0FCFAB130011949B /* FastFeedCell.h */,
+				DB88ABEC0FCFAB130011949B /* FastFeedCell.m */,
+				DB88ABED0FCFAB130011949B /* FastTableViewCell.h */,
+				DB88ABEE0FCFAB130011949B /* FastTableViewCell.m */,
+				DB88ABEF0FCFAB130011949B /* NWSZone.h */,
+				DB88ABF00FCFAB130011949B /* NWSZone.m */,
+				DB88ABF10FCFAB130011949B /* NWSForecastRegion.h */,
+				DB88ABF20FCFAB130011949B /* NWSForecastRegion.m */,
+				DB88ABF30FCFAB130011949B /* RootViewController.h */,
+				DB88ABF40FCFAB130011949B /* RootViewController.m */,
+				DB88ABF50FCFAB130011949B /* ZoneViewController.h */,
+				DB88ABF60FCFAB130011949B /* ZoneViewController.m */,
+				DB88AB6F0FCFA6410011949B /* BuoyRegionViewController.h */,
+				DB88AB700FCFA6410011949B /* BuoyRegionViewController.m */,
+				DB88AB740FCFA6590011949B /* TideRegionViewController.h */,
+				DB88AB750FCFA6590011949B /* TideRegionViewController.m */,
+				DB88AB790FCFA6770011949B /* ForecastRegionViewController.h */,
+				DB88AB7A0FCFA6770011949B /* ForecastRegionViewController.m */,
+				1D3623240D0F684500981E51 /* SeaCastAppDelegate.h */,
+				1D3623250D0F684500981E51 /* SeaCastAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* SeaCast.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* SeaCast_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DB6E80480FD0DECB00C8D00F /* SeaCast.sql */,
+				DB6E802D0FD09B2E00C8D00F /* search.png */,
+				DB6E802B0FD09B2300C8D00F /* faves.png */,
+				DB6E80290FD09B1700C8D00F /* all.png */,
+				DB7779690FD056B000852CDD /* icon.png */,
+				DB7778BB0FD0486C00852CDD /* RootViewController.xib */,
+				DB88AC180FCFAC280011949B /* regions.txt */,
+				DB88AC140FCFAC0A0011949B /* zones.txt */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* SeaCast-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DBA755CF0FD1920D00F0D494 /* libsqlite3.0.dylib */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SeaCast */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SeaCast" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SeaCast;
+			productName = SeaCast;
+			productReference = 1D6058910D05DD3D006BFB54 /* SeaCast.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SeaCast" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SeaCast */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				DB88AC150FCFAC0A0011949B /* zones.txt in Resources */,
+				DB88AC190FCFAC280011949B /* regions.txt in Resources */,
+				DB7778BC0FD0486C00852CDD /* RootViewController.xib in Resources */,
+				DB77796A0FD056B000852CDD /* icon.png in Resources */,
+				DB6E802A0FD09B1700C8D00F /* all.png in Resources */,
+				DB6E802C0FD09B2300C8D00F /* faves.png in Resources */,
+				DB6E802E0FD09B2E00C8D00F /* search.png in Resources */,
+				DB6E80490FD0DECB00C8D00F /* SeaCast.sql in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* SeaCastAppDelegate.m in Sources */,
+				DB88AB710FCFA6410011949B /* BuoyRegionViewController.m in Sources */,
+				DB88AB760FCFA6590011949B /* TideRegionViewController.m in Sources */,
+				DB88AB7B0FCFA6770011949B /* ForecastRegionViewController.m in Sources */,
+				DB88ABF70FCFAB130011949B /* ZoneDetailViewController.m in Sources */,
+				DB88ABF80FCFAB130011949B /* FastFeedCell.m in Sources */,
+				DB88ABF90FCFAB130011949B /* FastTableViewCell.m in Sources */,
+				DB88ABFA0FCFAB130011949B /* NWSZone.m in Sources */,
+				DB88ABFB0FCFAB130011949B /* NWSForecastRegion.m in Sources */,
+				DB88ABFC0FCFAB130011949B /* RootViewController.m in Sources */,
+				DB88ABFD0FCFAB130011949B /* ZoneViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Dana Spisak (EYB82YWPRK)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SeaCast_Prefix.pch;
+				INFOPLIST_FILE = "SeaCast-Info.plist";
+				PRODUCT_NAME = SeaCast;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SeaCast_Prefix.pch;
+				INFOPLIST_FILE = "SeaCast-Info.plist";
+				PRODUCT_NAME = SeaCast;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos2.2.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SeaCast" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SeaCast" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
